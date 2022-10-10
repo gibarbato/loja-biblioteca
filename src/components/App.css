@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-content: space-around;  /* alinhar os filhos */
+  background-color: gray;
+}
+
+.quadrado {
+  height: 80px;
+  width: 80px;
+}
+.red {
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
+
